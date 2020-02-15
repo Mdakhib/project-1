@@ -1,21 +1,5 @@
-body{
-    
-    color: white;
-}
-.h21{
-     margin-bottom: 10px;
-}
-.p1{
-    margin-bottom: 100px;
-}
-.sec{
-    display: flex;
-    justify-content: space-evenly;
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-top: 5px;
-    background-color: black;
-}
+
+
 
 
 * {
@@ -79,4 +63,18 @@ button {
     width: 100px;
     color: white;
     margin: 20px;
+}
+.h21{
+     margin-bottom: 10px;
+}
+.p1{
+    margin-bottom: 100px;
+}
+.sec{
+    justify-content: space-evenly;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 5px;
+    background-color: black;
+    color: white;
 }
