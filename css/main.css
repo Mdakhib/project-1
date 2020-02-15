@@ -1,3 +1,5 @@
+
+
 * {
   margin: 0;
   padding: 0;
@@ -11,9 +13,7 @@
   float: left;
 }
 
-/* .of {
-    text-align: center;
-} */
+
 
 a {
   margin: 20px;
@@ -28,4 +28,37 @@ select {
   margin-left: 100px;
   background-color: mediumturquoise;
   color: black;
+}
+h2 {
+    background-color: blue;
+    color: white;
+    height: 50px;
+    padding-top: 10px;
+}
+
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cc {
+    padding: 15px;
+    border: 1px solid black;
+    margin: 10px;
+    background-color: gray;
+    width:450px;
+    height: 450px;
+    text-align: center;
+    
+}
+
+button {
+    background-color: hotpink;
+    height: 30px;
+    border: none;
+    border-radius: 2rem;
+    width: 100px;
+    color: white;
+    margin: 20px;
 }
