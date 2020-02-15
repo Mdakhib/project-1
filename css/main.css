@@ -43,18 +43,22 @@ h2 {
 .flex {
     display: flex;
     flex-wrap: wrap;
+    width: 100%;
+    background-color: orange;
 }
 
 .cc {
     padding: 15px;
     border: 1px solid black;
-    margin: 10px;
-    background-color: gray;
+    margin: 25px;
+    background-color: lightgreen;
     width:450px;
     height: 450px;
     text-align: center;
+    /* margin-left: 5px; */
     
 }
+
 
 button {
     background-color: hotpink;
@@ -67,6 +71,7 @@ button {
 }
 .h21{
      margin-bottom: 10px;
+     background-color: black;
 }
 .p1{
     margin-bottom: 100px;
@@ -77,4 +82,9 @@ button {
     margin: 0;
     background-color: black;
     color: white;
+}
+
+.h31 {
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
